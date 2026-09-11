@@ -1,0 +1,14 @@
+{
+  "name": "Invoice number check",
+  "description": "Verify that every invoice number from a system export appears in the scanned bundle.",
+  "extract": {
+    "pattern": "INV-\\d{6}",
+    "expectedFrom": "(\\d+)\\s+invoices"
+  },
+  "match": {
+    "maxCost": 2
+  },
+  "report": {
+    "itemLabel": "Invoice no."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Delivery note check",
+  "description": "Check purchase-order numbers from the ERP against a photographed delivery note.",
+  "extract": {
+    "pattern": "PO-\\d{8}",
+    "expectedFrom": "Total items\\s*:?\\s*(\\d+)"
+  },
+  "match": {
+    "maxCost": 2
+  },
+  "report": {
+    "itemLabel": "PO number"
+  }
+}
