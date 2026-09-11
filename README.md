@@ -86,3 +86,7 @@ All sample data in this repo is fictional. The test suite includes negative cont
 **Is my document uploaded anywhere?** No. Web version: everything stays in your browser. Windows version: everything stays in a local process.
 
 **Why not just use an LLM?** Three reasons: confidential documents often cannot be sent to external models at all; feeding dozens of scanned pages to an LLM is expensive in tokens for a check that happens every day; and audits require reproducible verdicts, which non-deterministic LLM output cannot give. Deterministic rules + local OCR solve all three — nothing leaves your machine, zero tokens, same input, same result, every time.
+
+---
+
+Questions or bugs? [Open an issue](../../issues).
