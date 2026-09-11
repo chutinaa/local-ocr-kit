@@ -46,11 +46,11 @@
 
 ## 3. 在线试用
 
-打开 **[网页版](#)** <!-- 链接占位 -->，点 **Load sample** 看一次虚构数据的完整演示，或直接贴上你自己的清单、拖入文档。零安装，文件不离开浏览器。
+打开 **[网页版](https://chutinaa.github.io/local-ocr-kit/)**，点 **Load sample** 看一次虚构数据的完整演示，或直接贴上你自己的清单、拖入文档。零安装，文件不离开浏览器。
 
 ## 4. 下载 Windows 增强版
 
-日常使用建议下载这个。到 Releases 下载 zip：一个小文件夹（`start.bat`、`winocr.ps1` 和应用文件），**免安装、不需要管理员权限**。双击 `start.bat`，界面不变，OCR 换成系统自带引擎：实测**快约 20 倍**，中文识别更好。要求 Windows 10/11。
+日常使用建议下载这个。到 [Releases](https://github.com/chutinaa/local-ocr-kit/releases) 下载 zip：一个小文件夹（`start.bat`、`winocr.ps1` 和应用文件），**免安装、不需要管理员权限**。双击 `start.bat`，界面不变，OCR 换成系统自带引擎：实测**快约 20 倍**，中文识别更好。要求 Windows 10/11。
 
 ## 5. 定制成你自己的工具
 

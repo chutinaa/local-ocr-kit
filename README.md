@@ -48,11 +48,11 @@ No Windows app? The web page falls back to in-browser OCR (Tesseract WASM) — E
 
 ## 3. Try it online
 
-Open **[the web version](#)** <!-- GitHub Pages 链接占位 -->, click **Load sample** to see a full run on fictional data — or paste your own list and drop a document. Zero install; your files never leave the browser.
+Open **[the web version](https://chutinaa.github.io/local-ocr-kit/)**, click **Load sample** to see a full run on fictional data — or paste your own list and drop a document. Zero install; your files never leave the browser.
 
 ## 4. Windows enhanced version
 
-Recommended for daily use. Download the release zip — one small folder (`start.bat`, `winocr.ps1`, the app files), **no install, no admin rights.** Double-click `start.bat` — same interface, but OCR switches to the Windows built-in engine: **~20× faster in our tests** and better on CJK text. Requires Windows 10/11.
+Recommended for daily use. Download the [release zip](https://github.com/chutinaa/local-ocr-kit/releases) — one small folder (`start.bat`, `winocr.ps1`, the app files), **no install, no admin rights.** Double-click `start.bat` — same interface, but OCR switches to the Windows built-in engine: **~20× faster in our tests** and better on CJK text. Requires Windows 10/11.
 
 ## 5. Customize
 
