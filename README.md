@@ -1,6 +1,6 @@
 # local-ocr-kit
 
-**[中文版说明 → README.zh-CN.md](README.zh-CN.md)**
+**[中文说明 →](README.zh-CN.md)**
 
 Check a list of IDs / numbers / codes against a scanned document, a photo, a PDF or a Word file — in one click, fully offline. OCR runs on **your** machine; nothing is ever uploaded.
 
